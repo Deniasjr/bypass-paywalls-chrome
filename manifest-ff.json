@@ -51,7 +51,8 @@
     "*://*.trouw.nl/*",
     "*://*.volkskrant.nl/*",
     "*://*.washingtonpost.com/*",
-    "*://*.wsj.com/*"
+    "*://*.wsj.com/*",
+    "*://*.majalah.tempo.co/*"
     ],
       "js": ["src/js/contentScript.js"]
     }
@@ -217,7 +218,8 @@
     "*://*.volkskrant.nl/*",
     "*://*.washingtonpost.com/*",
     "*://*.wired.com/*",
-    "*://*.wsj.com/*"
+    "*://*.wsj.com/*",
+    "*://*.majalah.tempo.co/*"
   ],
   "version": "1.7.0"
 }
